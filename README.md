@@ -24,7 +24,7 @@ Laravel dapat diakses dan menyediakan alat yang diperlukan develeper
 ## Auth
 
 <p align=“center”>
-<a href="https://imgur.com/729b2430-209b-4629-be0b-9d50d5e9b4fb"><img src="https://imgur.com/729b2430-209b-4629-be0b-9d50d5e9b4fb" alt=“Build Status”></a>
+<a href="https://i.imgur.com/PqMB4Ou.png"><img src="https://i.imgur.com/PqMB4Ou.png" alt=“Build Status”></a>
 
 
 
