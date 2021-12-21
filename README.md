@@ -19,7 +19,8 @@ Newsia adalah website penyedia berita Indonesia sebagai wadah informasi baru ata
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel dapat diakses dan menyediakan alat yang diperlukan develeper
+Laravel dapat diakses dan menyediakan alat yang diperlukan develeper.
+Database bisa menggunakan migrate atau import dari file db_newsia.sql yang sudah disediakan
 
 ## Auth 
 
