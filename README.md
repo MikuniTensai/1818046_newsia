@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Newsia RESTFull API
+## Newsia RESTful API
 
 Newsia adalah website penyedia berita Indonesia sebagai wadah informasi baru atau informasi mengenai sesuatu yang sedang terjadi, dibuat menggunakan framework laravel 8. Lalu apa keunggulannya? 
 
@@ -77,6 +77,8 @@ Setelah itu admin bisa melakukan logout
 <p align=“center”>
 <a href="https://i.imgur.com/DmfQxKf.png"><img src="https://i.imgur.com/DmfQxKf.png" alt=“Build Status”></a>
 </br>
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
